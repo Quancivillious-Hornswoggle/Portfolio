@@ -199,3 +199,18 @@ p {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.quote-title {
+    position: relative;
+    top: 675px;
+}
+
+.quote-text {
+    position: relative;
+    top: 680px;
+    color: #8b0f19;
+    font-size: 1.2em;
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
